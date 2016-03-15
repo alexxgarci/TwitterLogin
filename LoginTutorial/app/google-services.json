@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_id": "logintutorial-1b837",
+    "project_number": "501030592679",
+    "name": "LoginTutorial"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:501030592679:android:69b2f06ccd584d77",
+        "client_id": "android:com.example.alex.logintutorial",
+        "client_type": 1,
+        "android_client_info": {
+          "package_name": "com.example.alex.logintutorial",
+          "certificate_hash": []
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "501030592679-1it0gf9f8g7s1ahc7ersth454ffa4vva.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.alex.logintutorial",
+            "certificate_hash": "7E1092CFA91D1C09A5501085E8CAA8E0DFE4493D"
+          }
+        },
+        {
+          "client_id": "501030592679-8fqftf97hb3e52ag6i44o6agu6j3kcn5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "cloud_messaging_service": {
+          "status": 1,
+          "apns_config": []
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "google_signin_service": {
+          "status": 2
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "client_info": [],
+  "ARTIFACT_VERSION": "1"
+}
