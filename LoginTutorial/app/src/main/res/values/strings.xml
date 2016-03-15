@@ -1,6 +1,4 @@
 <resources>
     <string name="app_name">LoginTutorial</string>
-    <string name="facebook_app_id">1536968813266600</string>
-    <string name="twitter_app_id">Ql4J1REB1P5oj5whbgq50JQ6C</string>
-    <string name="twitter_secret">AVu59z8F9WrmnrMoIPOl6duvDMcldPBuPxouIITucRspssUt3M</string>
+    <string name="descrip">twitter profile pictur</string>
 </resources>
